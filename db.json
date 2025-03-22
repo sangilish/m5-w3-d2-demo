@@ -20,5 +20,17 @@
       "title": "A Tale of Two Cities",
       "author": "Charles Dickens"
     }
+  ],
+  "lists": [
+    {
+      "id": 1,
+      "title": "First Book",
+      "author": "John Smith"
+    },
+    {
+      "id": 5,
+      "title": "Nineteen Eighty-Four",
+      "author": "George Orwell"
+    }
   ]
 }
